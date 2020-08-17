@@ -1,10 +1,3 @@
-# fast.ai
-Course notes for fast.ai
+# Course notes for fast.ai
 
-
-To do nearly everything in this course - requires access to computer with NVIDIA GPU.
-
-
---- 
-fastai + autoencoders:
-https://alanbertl.com/autoencoder-with-fast-ai/
+Requires access to computer with NVIDIA GPU
